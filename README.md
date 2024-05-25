@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 ### 🤺 About Me
 
 
-<p>&emsp;&emsp;I am currently a Junior Undergraduate student majoring in Computer Science and Technology at College of Intelligence and Computing, Tianjin University.</p>
+<p>&emsp;&emsp;I am currently a student majoring in Computer Science and Technology at College of Intelligence and Computing, Tianjin University.</p>
 <p>&emsp;&emsp;I am interested in Machine Learning, Computer Vision, and Robotics. </p>
 
