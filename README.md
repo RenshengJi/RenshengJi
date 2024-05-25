@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 #  🙋 Hello
 
-<table>
-  
-<tr><td>
+
 
 ### 🤺 About Me
 
@@ -32,6 +30,3 @@ Here are some ideas to get you started:
 <p>&emsp;&emsp;I am currently a Junior Undergraduate student majoring in Computer Science and Technology at College of Intelligence and Computing, Tianjin University.</p>
 <p>&emsp;&emsp;I am interested in Machine Learning, Computer Vision, and Robotics. </p>
 
-</td></tr>
-
-<tr><td>
