@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ### 🤺 About Me
 
 
-<p>&emsp;&emsp;I am currently a student majoring in Computer Science and Technology at College of Intelligence and Computing, Tianjin University.</p>
-<p>&emsp;&emsp;I am interested in Machine Learning, Computer Vision, and Robotics. </p>
+<p>&emsp;&emsp;
+Hi! I am currently a first-year PhD student at the New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, supervised by Ap. Lue Fan and Prof. Zhaoxiang Zhang. Before that, I received my B.Eng. in Computer Science and Technology from the College of Intelligence and Computing, Tianjin University.
+</p>
 
